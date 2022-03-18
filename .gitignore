@@ -1,0 +1,4 @@
+.DS_Store
+
+# Ignore datasets
+*glove.6B.*
